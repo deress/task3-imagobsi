@@ -5,8 +5,8 @@
 ### 1. Clone/Download Project
 
 Clone repository atau download zip project:
-git clone <repository-url> feedback-app
-cd feedback-app
+git clone [<repository-url>](https://github.com/deress/task3-imagobsi.git) <nama-folder>
+cd <nama-folder>
 
 ### 2. Install Dependensi
 
